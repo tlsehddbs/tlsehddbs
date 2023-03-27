@@ -69,9 +69,15 @@ https://github.com/mazassumnida/mazassumnida
 
 <br/>
 
+![tlsehddbs's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlsehddbs&show_icons=true&theme=cobalt)
+<!--
 ![tlsehddbs's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlsehddbs&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt)
+-->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlsehddbs&layout=compact)](https://github.com/tlsehddbs)
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlsehddbs&layout=compact&hide=ShaderLab,GLSL,HLSL,Smalltalk)](https://github.com/tlsehddbs)
+-->
 
 
 <!-- Readme stats 수정시 참고
