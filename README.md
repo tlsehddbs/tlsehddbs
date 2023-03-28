@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Hello👋&fontColor=ffffff&fontSize=200&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Hello👋&fontColor=ffffff&fontSize=200&animation=twinkling)
 
 
 <!-- 헤더 제작, 수정시 참고
