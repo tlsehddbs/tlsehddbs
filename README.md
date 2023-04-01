@@ -8,7 +8,6 @@ https://github.com/kyechan99/capsule-render
 -->
 
 ---
-</br>
 
 ### :clipboard: MY TECH
 
@@ -16,6 +15,7 @@ https://github.com/kyechan99/capsule-render
 
 <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 </br>
@@ -43,10 +43,9 @@ https://simpleicons.org/
 -->
 
 </br>
+</br>
 
 ---
-
-</br>
 
 ### :pencil2: BACKJOON
 
@@ -63,23 +62,26 @@ https://github.com/mazassumnida/mazassumnida
 
 ---
 
-</br>
-
 ### :pencil2: GITHUB STATS
 
 <br/>
 
-![tlsehddbs's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlsehddbs&show_icons=true&theme=cobalt)
 <!--
-![tlsehddbs's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlsehddbs&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt)
+![tlsehddbs's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlsehddbs&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlsehddbs&layout=compact)](https://github.com/tlsehddbs)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlsehddbs&layout=compact)](https://github.com/tlsehddbs)
-<!--
+![tlsehddbs's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlsehddbs&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlsehddbs&layout=compact&hide=ShaderLab,GLSL,HLSL,Smalltalk)](https://github.com/tlsehddbs)
--->
 
 
 <!-- Readme stats 수정시 참고
 https://github.com/anuraghazra/github-readme-stats
 -->
+
+</br>
+</div>
+
+---
+
